@@ -1,2 +1,2 @@
 configMap:
-  enabled: false
+  enabled: true
